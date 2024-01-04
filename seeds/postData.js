@@ -20,12 +20,12 @@ const postData = [
     {
         title: "An article about Tech",
         body: "They've created a robot that can steal your job!",
-        user_id: 5
+        user_id: 3
     },
     {
         title: "Blog Test",
         body: "This is the body of the blog post.",
-        user_id: 4
+        user_id: 3
     }
 ]
 

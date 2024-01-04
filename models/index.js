@@ -1,4 +1,4 @@
-const Post = require('../models/BlogPost.js');
+const Post = require('../models/blogPost.js');
 const Comment = require('../models/Comment.js');
 const User = require('../models/User.js');
 
