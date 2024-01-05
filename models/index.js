@@ -1,6 +1,6 @@
-const Post = require('../models/blogPost.js');
-const Comment = require('../models/Comment.js');
-const User = require('../models/User.js');
+const Post = require('./BlogPost.js');
+const Comment = require('./Comment.js');
+const User = require('./User.js');
 
 
 Post.belongsTo(User, {
